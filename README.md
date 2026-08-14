@@ -117,6 +117,36 @@ This repository contains:
 - Power BI dashboard
 - Project documentation
 
+## 💡 Business Insights
+
+The analysis of the 5,000-record E-Commerce dataset generated the following key business insights:
+
+- Delhi had the highest number of customers, with 595 customers.
+- Warangal had the lowest number of customers among the analyzed cities, with 251 customers.
+- Male customers accounted for 2,908 customers, while female customers accounted for 2,092 customers.
+- The overall average customer age was approximately 39.1 years.
+- Uttar Pradesh had the highest average customer age at approximately 40 years.
+- Bihar had the lowest average customer age at approximately 38 years.
+- Customer 1 generated the highest revenue.
+- Customer 1 and Customer 2 placed the highest number of orders.
+- Customer 1 made the largest single purchase.
+- The customer segmentation analysis identified 2,477 Regular customers and 944 Gold customers.
+- - The average age of male customers was approximately 38 years, while female customers had an average age of approximately 39 years.
+
+- Among the analyzed states, Maharashtra had the highest number of male customers, with 325 customers.
+
+- Karnataka had the highest number of female customers, with 250 customers.
+
+- Regular customers accounted for 2,477 customers, while Gold customers accounted for 944 customers.
+
+- The analysis identified differences in customer demographics across states and cities, which can help in understanding regional customer patterns.
+
+- Customer segmentation based on customer type can support targeted marketing and customer retention strategies.
+- 
+- Customer distribution varied across different states, cities, and gender groups, providing useful insights into customer demographics.
+
+These insights demonstrate how SQL, Excel, and Power BI analysis can be used to identify customer patterns and support data-driven business decisions.
+
 ## 🚀 Project Outcome
 
 This project demonstrates an end-to-end data analytics workflow:
